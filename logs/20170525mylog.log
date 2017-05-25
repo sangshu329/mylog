@@ -1,0 +1,9 @@
+[2017-05-25 23:46:42] mylog debug 这是内容
+[2017-05-25 23:46:42] mylog debug {"test":"testcontent","test2":"testcontent2"}
+[2017-05-25 23:46:42] mylog debug [O:8:"stdClass":0:{}]
+[2017-05-25 23:49:13] mylog debug 这是普通字符串内容 这是内容
+[2017-05-25 23:49:13] mylog debug 这是数组内容 {"test":"testcontent","test2":"testcontent2"}
+[2017-05-25 23:49:13] mylog debug 这是对象内容 [O:8:"stdClass":0:{}]
+[2017-05-25 23:49:48] mylog debug 这是普通字符串内容 这是内容
+[2017-05-25 23:49:48] mylog debug 这是数组内容 {"test":"testcontent","test2":"testcontent2"}
+[2017-05-25 23:49:48] mylog debug 这是对象内容 [O:8:"stdClass":0:{}]
